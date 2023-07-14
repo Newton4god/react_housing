@@ -1,0 +1,77 @@
+
+
+.ChooseUs{
+    padding: 100px 100px 100px 100px;
+    background-color: rgb(247, 244, 244);
+}
+
+.ChooseUsMainDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ChooseUsImg{
+   width:60%;
+   height: 50vh;
+   padding-right: 90px;
+   padding-top: 130PX;
+   padding-bottom: 30px;
+   margin-right: 40px;
+   background: linear-gradient(to bottom right, transparent 45%, rgb(153, 0, 89) 50%)
+}
+
+.ChooseUsSubDiv i{
+    color:var(--darkpink);
+    font-size: 40px;
+    text-align:center;
+    padding-left: 100px;
+}
+
+.ChooseUsSubDiv h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 7px;
+}
+
+.ChooseUsSubDiv hr{
+    border-color:var(--darkpink);
+    width: 20%;
+    margin: 20px 0;
+    font-weight: 400;
+    margin-left: 70px;
+}
+
+.ChooseUsSubDiv p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+.ChooseUsSubDiv ul{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:var(--darkpink);
+    letter-spacing: 3px;
+}
+
+
+
+@media screen and (max-width:769px) {
+
+    .ChooseUs{
+        padding: 100px 30px 100px 30px;
+    }
+
+    .ChooseUsMainDiv{
+        flex-direction: column;
+    }
+
+    .ChooseUsImg{
+        display:none;
+    }
+
+
+
+}

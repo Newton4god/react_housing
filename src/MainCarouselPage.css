@@ -1,0 +1,85 @@
+:root{
+    --darkpink:rgb(153, 0, 89);
+}
+
+.mainHeader{
+    text-align: center;
+    padding:0px 0 50px 0;
+}
+
+.mainHeader i{
+    color: var(--darkpink);
+    font-size: 50px;
+    padding: 0 0 20px 0;
+}
+
+.mainHeader h1{
+    font-size: 50px;
+    padding: 0 0 20px 0;
+    font-weight: 100;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainHeader h2{
+    color: var(--darkpink);
+    font-size: 30px;
+    padding: 0 0 20px 0;
+}
+
+.mainCarouselDivs{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.mainCarouselList{
+    padding: 10px 0 20px 20px;
+}
+
+.subCarouselDivs{
+    border: 2px solid var(--darkpink);
+    margin: 0 0 50px 0;
+}
+
+
+
+.miniCarouselDivs{
+    padding:10px 10px 10px 10px;
+}
+
+.miniCarouselDivs h5{
+    font-size:20px;
+    text-transform: capitalize;
+}
+
+.miniCarouselDivs p{
+    letter-spacing: 2px;
+    color:var(--darkpink);
+}
+
+.miniCarouselDivs ul{
+    letter-spacing: 1px;
+}
+
+.subCarouselDivs:hover{
+    background-color: var(--darkpink);
+    transition: 0.5s ease-in-out;
+    color:white ;
+}
+
+.subCarouselDivs:hover p{
+    color:white ;
+}
+
+.special-divs{
+    margin:0 50px 0 50px;
+}
+
+@media screen and (max-width:769px) {
+    .mainCarouselDivs{
+        flex-direction: column;
+    }
+        
+    .special-divs{
+        margin: 20px 0px 20px 0px;
+    }
+}

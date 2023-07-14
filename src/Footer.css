@@ -1,0 +1,122 @@
+.Footer{
+    background-color: var(--darkpink);
+    color:white;
+    padding:70px 50px;
+}
+
+.FooterMainDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.FooterAboutUs{
+    width:35%;
+    padding-right: 50px;
+}
+
+.FooterAboutUs h1{
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.FooterAboutUs hr{
+    width:30%;
+    margin: 15px 0px;
+}
+
+.FooterAboutUs p{
+    letter-spacing: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+.FooterCompanyInfo h1{
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.FooterCompanyInfo hr{
+    width:90%;
+    margin: 15px 0px;
+}
+
+.FooterCompanyInfo ul{
+    line-height: 30px;
+    padding-left: 15px;
+    /* list-style-type: none; */
+}
+
+.FooterCompanyInfo ul li a{
+    line-height: 30px;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+.FooterCompanyInfo ul li a:hover{
+    color:grey;
+}
+
+
+
+
+/* .FooterQuickContact{
+} */
+
+.FooterQuickContact h1{
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.FooterQuickContact hr{
+    width:50%;
+    margin: 15px 0px;
+}
+
+.FooterQuickContact p{
+    font-family:Arial, Helvetica, sans-serif;
+    width:80%;
+    margin: 15px 0px;
+}
+
+
+.FooterQuickContact h6{
+    font-size: 20px;
+    margin: 15px 0px;
+}
+
+.FooterQuickContact a i{
+    font-size: 50px;
+    color:white;
+}
+
+.FooterQuickContact a i:hover{
+    font-size: 50px;
+    /* color:rgb(247, 112, 191); */
+    color:grey;
+}
+
+
+@media screen and (max-width:769px) {
+    .FooterMainDiv{
+        flex-direction: column;
+    }
+  
+    .FooterAboutUs{
+        width:100%;
+        padding-bottom: 50px;
+    }
+
+    .FooterCompanyInfo{
+        width:100%;
+        padding-bottom: 50px;
+    }
+
+    .Footer{
+        padding:70px 20px;
+    }
+}

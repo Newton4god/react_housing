@@ -1,0 +1,70 @@
+
+export const images1 = [
+    'assets/Image folder/House 1 image/210941253_211431814179955_1443693398602813124_n.JPG',
+    'assets/Image folder/House 1 image/209105609_316209156655199_8711836281708750918_n.JPG',
+    'assets/Image folder/House 1 image/209217408_159973352741270_1746290313483161596_n.JPG',
+    'assets/Image folder/House 1 image/209242970_132227555684862_9177110511107997647_n.JPG',
+    'assets/Image folder/House 1 image/209636244_245822640277611_3400471879480898268_n.JPG',
+    'assets/Image folder/House 1 image/209791487_530986188220263_5043608232410950435_n.JPG',
+    'assets/Image folder/House 1 image/210208132_2268104846658882_5097938636710514596_n.JPG',
+    
+  ];
+  
+  export const images2 = [
+    'assets/Image folder/House 2 image/207106143_392730488811555_3495766938578760711_n.JPG',
+    'assets/Image folder/House 2 image/205288657_307004431109578_5184910373682941119_n.JPG',
+    'assets/Image folder/House 2 image/205381168_1377847532601295_1602098815660844842_n.JPG',
+    'assets/Image folder/House 2 image/205805279_124782056435232_2867356025674702347_n.JPG',
+    'assets/Image folder/House 2 image/206111642_4383130881706361_6766454678593983524_n.JPG',
+    'assets/Image folder/House 2 image/206333091_757217964954206_6290949414859693705_n.JPG',
+    
+    'assets/Image folder/House 2 image/207135806_510483300195355_6377519223350477742_n.JPG'
+  ];
+  
+  
+  export const images3 =[
+    'assets/Image folder/House 3 image/199771632_319821733099132_6277379372358141253_n.JPG',
+    'assets/Image folder/House 3 image/198344481_2040006656149000_6573269647073334115_n.JPG',
+    'assets/Image folder/House 3 image/198489259_235518117988336_6071823755439799303_n.JPG',
+    'assets/Image folder/House 3 image/198520576_1147220812414350_2526762409138543279_n.JPG',
+    'assets/Image folder/House 3 image/198714014_191905496155167_410826820567735867_n.JPG',
+    'assets/Image folder/House 3 image/199312920_585992549052566_7134998932654958132_n.JPG',
+    'assets/Image folder/House 3 image/199687247_4229683507096465_1628917221043975249_n.JPG',
+    'assets/Image folder/House 3 image/200036619_137709305010174_4232586551165309152_n.JPG',
+  ]
+  
+  export const images4 =[
+    'assets/Image folder/House 4 image/197365732_325125955796117_7475818607152604786_n.JPG',
+    'assets/Image folder/House 4 image/196866325_483806952732054_5960885261032871761_n.JPG',
+    'assets/Image folder/House 4 image/196949971_532110157921057_1813894965449555310_n.JPG',
+    'assets/Image folder/House 4 image/197328099_846924699281802_1922409444307170691_n.JPG',
+    'assets/Image folder/House 4 image/197552901_935330900589226_6195653489453093318_n.JPG',
+    'assets/Image folder/House 4 image/197633161_1011570179247091_6545747359113394191_n.JPG',
+    'assets/Image folder/House 4 image/197820384_485063206129763_8111771629049701274_n.JPG',
+  ]
+  
+  export const images5 =[
+    'assets/Image folder/House 5 image/195879999_312172063843746_3397922762368774891_n.JPG',
+    'assets/Image folder/House 5 image/194531836_532353394442571_3320523546686759506_n.JPG',
+    'assets/Image folder/House 5 image/194911879_302551678215349_6970222270901169054_n.JPG',
+    'assets/Image folder/House 5 image/195200457_528004141547506_3958767482687757078_n.JPG',
+    'assets/Image folder/House 5 image/195239496_430697451502989_5902378620411262111_n.JPG',
+    'assets/Image folder/House 5 image/195351959_976394009782586_5883941812576201284_n.JPG',
+    'assets/Image folder/House 5 image/195727176_1088404241688915_250633518514438107_n.JPG',
+    'assets/Image folder/House 5 image/195780399_987099728702137_8895145543929696646_n.JPG',
+  ]
+  
+  export const images6 =[
+    'assets/Image folder/House 6 images/195221405_3015970082058349_756472517248569360_n.JPG',
+    'assets/Image folder/House 6 images/191630008_846604532928772_139345536080912658_n.JPG',
+    'assets/Image folder/House 6 images/193715445_347090233456919_9062062150561780335_n.JPG',
+    'assets/Image folder/House 6 images/193759358_405000867265574_8435168654923732094_n.JPG',
+    'assets/Image folder/House 6 images/193847293_963592021095735_7481089469216585485_n.JPG',
+    'assets/Image folder/House 6 images/194191017_146341947485358_4470467193523411814_n.JPG',
+    'assets/Image folder/House 6 images/194238484_233813531442591_6118726949166154420_n.JPG',
+    'assets/Image folder/House 6 images/195056776_4003025143108283_6821589660464052567_n.JPG',
+    'assets/Image folder/House 6 images/195184228_527916405242599_6630027125109713051_n.JPG',
+    'assets/Image folder/House 6 images/195241110_216011606806907_2413656238793032010_n.JPG',
+    
+  ]
+  
